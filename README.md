@@ -33,8 +33,8 @@ Este repositorio servirá como portafolio y espacio de trabajo para:
 
 ## 📫 Contacto
 Si quieres saber más sobre mis proyectos o colaborar, puedes escribirme a:
-**Email:** a20206234@pucp.edu.pe
-**LinkedIn:** https://www.linkedin.com/in/jorgechamorrocayetano/
+- **Email:** a20206234@pucp.edu.pe
+- **LinkedIn:** https://www.linkedin.com/in/jorgechamorrocayetano/
 
 ---
 
