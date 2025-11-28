@@ -9,7 +9,7 @@ Este espacio reúne mis proyectos, prácticas y documentación como estudiante d
 - 🎓 Estudiante de 8vo ciclo en Ingeniería Informática (PUCP).  
 - 📚 Becario de **Beca 18 – Pronabec**, con desempeño académico constante y disciplina de trabajo.  
 - 💡 Comprometido, entusiasta y con alto potencial de aprendizaje.  
-- 🌐 Idiomas: Español (nativo), Inglés (avanzado), Francés (básico).  
+- 🌐 Idiomas: Español (nativo) e Inglés (básico).  
 - 🇵🇪 País: Perú  
 - 🎂 Nacimiento: 7 de diciembre de 2004  
 
