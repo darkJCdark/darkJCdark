@@ -57,7 +57,7 @@ ClickUp, Jira, Freedcamp, Google Workspace, Microsoft Office Suite
 
 # 📂 Proyectos Destacados
 
-## 🔗 SanchezLovers – SIRGEP
+## 🔗 [SanchezLovers – SIRGEP](https://github.com/SanchezLovers)
 **Sistema Integral de Reservas y Gestión de Espacios Públicos**  
 Plataforma web para reservar espacios municipales y comprar entradas a eventos públicos.  
 - **Backend:** Java 21, Maven, SOAP Web Services en Ubuntu. Arquitectura modular con capas de dominio, datos, negocio y servicios.  
@@ -67,7 +67,7 @@ Plataforma web para reservar espacios municipales y comprar entradas a eventos p
 
 ---
 
-## 🔗 Fraud Detection – Machine Learning
+## 🔗 [Fraud Detection – Machine Learning](https://github.com/darkJCdark/fraud-detection-bank-transactions-ml)
 **Detección de transacciones bancarias fraudulentas**  
 Modelo predictivo de fraude en entidades financieras.  
 - **Contenido:** documentación académica, código en Python/Scikit-learn, análisis y entrenamiento de algoritmos.  
@@ -77,7 +77,7 @@ Modelo predictivo de fraude en entidades financieras.
 
 ---
 
-## 🔗 PsychoPy – Fragmentos Preaprendidos
+## 🔗 [PsychoPy – Fragmentos Preaprendidos](https://github.com/darkJCdark/prelearned-chunks-working-memory-psychopy)
 **Memoria de trabajo visual**  
 Experimento basado en el estudio de Allen, DeStefano y Brady (2021).  
 - **Objetivo:** evaluar cómo los fragmentos preaprendidos (palabras conocidas) influyen en la memoria de identidad y detalles perceptuales.  
