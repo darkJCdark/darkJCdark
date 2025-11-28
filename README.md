@@ -9,8 +9,9 @@ Este espacio reúne mis proyectos, prácticas y documentación como estudiante d
 - 🎓 Estudiante de 8vo ciclo en Ingeniería Informática (PUCP).  
 - 📚 Becario de **Beca 18 – Pronabec**, con desempeño académico constante y disciplina de trabajo.  
 - 💡 Comprometido, entusiasta y con alto potencial de aprendizaje.  
-- 🌐 Idiomas: Español (nativo) e Inglés (básico).  
-- 🇵🇪 País: Perú
+- 🌐 Idiomas: Español (nativo), Inglés (avanzado), Francés (básico).  
+- 🇵🇪 País: Perú  
+- 🎂 Nacimiento: 7 de diciembre de 2004  
 
 Me apasiona la tecnología y el desarrollo de soluciones informáticas. Me caracterizo por ser **organizado, eficiente y proactivo**, cualidades que aplico en proyectos académicos y personales.  
 
@@ -85,6 +86,29 @@ Modelo de **Machine Learning** para la detección de transacciones bancarias fra
   - GridSearchCV para optimización de hiperparámetros  
 
 - 📌 Página personal: *En desarrollo, pronto disponible como repositorio.*  
+
+---
+
+## 💡 Aptitudes
+- Compromiso  
+- Respeto  
+- Cordialidad  
+- Paciencia  
+- Tenacidad  
+- Empatía  
+- Comunicación efectiva  
+- Trabajo en grupo  
+- Trabajar bajo presión  
+- Espíritu de adaptación  
+
+---
+
+## 🎵 Hobbies
+- Programación  
+- Desarrollo de proyectos propios  
+- Música  
+- Videojuegos  
+- Cine  
 
 ---
 
