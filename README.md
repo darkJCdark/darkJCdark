@@ -55,8 +55,6 @@ ClickUp, Jira, Freedcamp, Google Workspace, Microsoft Office Suite
 
 ---
 
-## 🧑‍💻 Proyectos Destacados
-
 # 📂 Proyectos Destacados
 
 ## 🔗 SanchezLovers – SIRGEP
