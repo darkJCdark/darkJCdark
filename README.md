@@ -34,7 +34,7 @@ Git, Git Bash, GitHub
 Windows 10, Ubuntu Desktop, Linux Mint, VirtualBox
 
 ### 🔹 Redes y Cloud
-Packet Tracer, AWS Academy (instancias Windows/Ubuntu, VPN, seguridad, AD DS, Docker, Kubernetes)
+Packet Tracer, AWS Academy (instancias Windows/Ubuntu, VPN, seguridad, AD DS)
 
 ### 🔹 Herramientas de Desarrollo
 Visual Studio Code, Visual Studio Community 2022, NetBeans, RStudio, JasperSoft Studio, Google Colab, PsychoPy, Figma, Drawio, Miro
@@ -57,34 +57,34 @@ ClickUp, Jira, Freedcamp, Google Workspace, Microsoft Office Suite
 
 ## 🧑‍💻 Proyectos Destacados
 
-- 🔗 [**SanchezLovers**](https://github.com/SanchezLovers)
-Repositorio grupal de programación realizado en equipo para un curso universitario.
+# 📂 Proyectos Destacados
 
-- 🔗 [**Prelearned Chunks Working Memory – PsychoPy**](https://github.com/darkJCdark/prelearned-chunks-working-memory-psychopy)
-Diseño experimental y análisis del estudio de Allen, DeStefano y Brady (2021) sobre cómo los fragmentos preaprendidos afectan la memoria de trabajo visual.
+## 🔗 SanchezLovers – SIRGEP
+**Sistema Integral de Reservas y Gestión de Espacios Públicos**  
+Plataforma web para reservar espacios municipales y comprar entradas a eventos públicos.  
+- **Backend:** Java 21, Maven, SOAP Web Services en Ubuntu. Arquitectura modular con capas de dominio, datos, negocio y servicios.  
+- **Frontend:** ASP.NET Web Forms (C#, Bootstrap) en Windows. Módulos de usuarios, ventas y reportes.  
+- **Base de datos:** MySQL en AWS Academy, con credenciales cifradas.  
+- **Funciones clave:** reservas en línea, compra de entradas, múltiples métodos de pago (tarjeta, Yape, Plin), notificaciones automáticas, dashboard de ventas y comprobantes en PDF/Excel.  
 
-- 🔗 [**Fraud Detection in Banking Transactions – ML**](https://github.com/darkJCdark/fraud-detection-bank-transactions-ml)
-Modelo de **Machine Learning** para la detección de transacciones bancarias fraudulentas.
+---
 
-  **Contenido:**
-  - Documentación académica: Presentación y reporte con contexto, objetivos, metodología, resultados y conclusiones.
-  - Código fuente (Python/Scikit-learn): Preprocesamiento, análisis de correlaciones, escalamiento de variables, codificación de atributos categóricos y entrenamiento de algoritmos.
-  - Modelos evaluados: Regresión Logística y Random Forest con optimización de hiperparámetros.
-  - Resultados: El modelo **Random Forest** alcanzó un *recall* de **95%**, detectando casi todos los casos de fraude.
-  - Implicancias éticas: Privacidad de datos, sesgos, transparencia y seguridad frente a ataques adversarios.
+## 🔗 Fraud Detection – Machine Learning
+**Detección de transacciones bancarias fraudulentas**  
+Modelo predictivo de fraude en entidades financieras.  
+- **Contenido:** documentación académica, código en Python/Scikit-learn, análisis y entrenamiento de algoritmos.  
+- **Modelos evaluados:** Regresión Logística y Random Forest.  
+- **Resultados:** el modelo Random Forest alcanzó un *recall* de **95%**, detectando casi todos los casos de fraude.  
+- **Aspectos éticos:** privacidad de datos, sesgos y seguridad frente a ataques adversarios.  
 
-  **Objetivo:**  
-  Desarrollar un sistema predictivo capaz de identificar patrones en transacciones bancarias y anticipar posibles fraudes, reduciendo falsos negativos y fortaleciendo la confianza en los sistemas financieros.
+---
 
-  **Dataset:**
-  Conjunto de datos público (`fraud_data.csv`) con atributos temporales, geográficos, demográficos y financieros.
-
-  **Tecnologías utilizadas:**
-  - Python (Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib)
-  - Algoritmos de clasificación supervisada
-  - GridSearchCV para optimización de hiperparámetros
-
-- 📌 Página personal: *En desarrollo, pronto disponible como repositorio.*
+## 🔗 PsychoPy – Fragmentos Preaprendidos
+**Memoria de trabajo visual**  
+Experimento basado en el estudio de Allen, DeStefano y Brady (2021).  
+- **Objetivo:** evaluar cómo los fragmentos preaprendidos (palabras conocidas) influyen en la memoria de identidad y detalles perceptuales.  
+- **Diseño:** tarea con pares de letras en distintas fuentes, prueba de reconocimiento 4-AFC.  
+- **Resultados esperados:** contraste entre modelos teóricos (sin contenido vs. distribuido/jerárquico) para explicar la preservación de detalles.  
 
 ---
 
@@ -120,7 +120,7 @@ Modelo de **Machine Learning** para la detección de transacciones bancarias fra
 ---
 
 ## 📫 Contacto
-- 🔗 **LinkedIn:** [Jorge Chamorro Cayetano](https://www.linkedin.com/in/jorgechamorrocayetano/)
+- 🔗 **LinkedIn:** [Jorge Chamorro](https://www.linkedin.com/in/jorgechamorrocayetano/)
 
 ---
 
