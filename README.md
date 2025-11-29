@@ -73,15 +73,15 @@ ClickUp, Jira, Freedcamp, Google Workspace, Microsoft Office Suite
 
 ## 📂 Featured Projects / Proyectos Destacados
 
-### 🔗 [SanchezLovers – SIRGEP](https://github.com/SanchezLovers)
-**Integrated System for Public Space Reservations and Management**  
-**Sistema Integral de Reservas y Gestión de Espacios Públicos**  
-
----
-
 ### 🔗 [Fraud Detection – Machine Learning](https://github.com/darkJCdark/fraud-detection-bank-transactions-ml)
 **Fraudulent Bank Transaction Detection**  
 **Detección de transacciones bancarias fraudulentas**  
+
+---
+
+### 🔗 [SanchezLovers – SIRGEP](https://github.com/SanchezLovers)
+**Integrated System for Public Space Reservations and Management**  
+**Sistema Integral de Reservas y Gestión de Espacios Públicos**  
 
 ---
 
