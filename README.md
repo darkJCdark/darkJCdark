@@ -79,7 +79,7 @@ ClickUp, Jira, Freedcamp, Google Workspace, Microsoft Office Suite
 
 ---
 
-### 🔗 [SanchezLovers – SIRGEP](https://github.com/SanchezLovers)
+### 🔗 [SanchezLovers – SIRGEP](https://github.com/darkJCdark/sirgep-web)
 **Integrated System for Public Space Reservations and Management**  
 **Sistema Integral de Reservas y Gestión de Espacios Públicos**  
 
