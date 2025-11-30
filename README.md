@@ -118,7 +118,8 @@ Experiment based on the study by Allen, DeStefano, and Brady (2021).
 ---
 
 ## 📫 Contact
-- 🔗 *LinkedIn:* [Jorge Chamorro](https://www.linkedin.com/in/jorgechamorrocayetano/)  
+- 🔗 *LinkedIn:* [Jorge Chamorro](https://www.linkedin.com/in/jorgechamorrocayetano/)
+- 🔗 *Mail*: a20206234@pucp.edu.pe
 
 ---
 
