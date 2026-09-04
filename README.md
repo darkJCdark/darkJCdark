@@ -62,13 +62,6 @@ Modular PyTorch pipeline comparing ResNet-50, InceptionV3, and EfficientNet-B3 t
 
 ---
 
-### 🔗 Hannah — AI Companion *(backend repo link pending — organization: [github.com/Hannah-AI-companion](https://github.com/Hannah-AI-companion))*
-*Backend & RAG orchestration*
-
-Built the backend and orchestration layer for a local, low-latency AI companion: a FastAPI gateway routing between a fast and a slow model, hybrid retrieval over ChromaDB (vector) and Neo4j (knowledge graph), and a background pipeline that extracts and stores facts from conversation in real time. Published model card on Hugging Face (`HannahTeam/Hannah-AI-Companion`).
-
----
-
 ### 🔗 CoreMen — B2B/B2C E-commerce Platform *(repo link pending)*
 *E-commerce for a Gamarra textile manufacturer*
 
