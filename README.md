@@ -62,7 +62,7 @@ Modular PyTorch pipeline comparing ResNet-50, InceptionV3, and EfficientNet-B3 t
 
 ---
 
-### 🔗 CoreMen — B2B/B2C E-commerce Platform *(repo link pending)*
+### 🔗 [CoreMen — B2B/B2C E-commerce Platform](https://github.com/ta-ingenieria-software/core-men)
 *E-commerce for a Gamarra textile manufacturer*
 
 Designed the PostgreSQL data model with Prisma and versioned migrations, documented the architecture with the C4 model, and built the NestJS API with a JWT-secured, role-based backoffice and an immutable audit log. Built the Next.js/React storefront with garment customization and volume-discount quoting for wholesale buyers.
@@ -86,7 +86,7 @@ Compared Logistic Regression and Random Forest (with `GridSearchCV` hyperparamet
 
 ---
 
-### 🔗 Traffic Forecasting with Graph Machine Learning *(repo link pending)*
+### 🔗 [Traffic Forecasting with Graph Machine Learning](https://github.com/darkJCdark/traffic-forecasting-graph-machine-learning)
 *Coursework in Graph Machine Learning*
 
 Built a Graph Neural Network pipeline (PyTorch Geometric) to forecast traffic patterns, applying node/edge representation learning to a real transportation network.
@@ -98,7 +98,7 @@ Built a Graph Neural Network pipeline (PyTorch Geometric) to forecast traffic pa
 
 **[Pre-learned Chunks in Visual Working Memory](https://github.com/darkJCdark/prelearned-chunks-working-memory-psychopy)** — Replication of Experiment 2 from Allen, DeStefano & Brady (2021): a PsychoPy task testing whether familiar letter chunks preserve perceptual detail (font) alongside identity, contrasting content-free vs. distributed/hierarchical memory models.
 
-**Four-Wheeled Mobile Robot (ROS2 + Gazebo)** — Group project modeling and simulating a four-wheeled robot: URDF description, collision/inertial properties, and a Gazebo/RViz launch pipeline.
+**[Four-Wheeled Mobile Robot (ROS2 + Gazebo)](https://github.com/darkJCdark/ros2-gazebo-four-wheeled-robot)** — Group project modeling and simulating a four-wheeled robot: URDF description, collision/inertial properties, and a Gazebo/RViz launch pipeline.
 
 </details>
 
