@@ -24,8 +24,8 @@ Each project has its own README with the full method, data and results.
 ### [Traffic Forecasting with Graph ML](https://github.com/darkJCdark/traffic-forecasting-graph-machine-learning) · team project
 Rebuilt the PEMS-04 sensor network as a graph (307 nodes, 340 edges) and compared STGCN, LSTTN and STAEformer under one frozen evaluation protocol. STAEformer reproduced its published MAE within 0.06, LSTTN cut error by up to 38.5% vs. STGCN, and PDFormer's failure was traced to an attention mask discarding 92.6% of node pairs on a sparse graph.
 
-**AI:** Codex helped me debug tensor shapes; the graph construction and evaluation protocol are my design. ![Codex](https://img.shields.io/badge/Codex-412991?style=flat&logo=openai&logoColor=white)
-
+**AI:** Codex helped me debug tensor shapes; the graph construction and evaluation protocol are my design.
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat&logo=openai&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![PyTorch Geometric](https://img.shields.io/badge/PyTorch_Geometric-3C2179?style=flat&logo=pytorch&logoColor=white)
