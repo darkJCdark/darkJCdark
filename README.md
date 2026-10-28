@@ -37,8 +37,9 @@ Rebuilt the PEMS-04 sensor network as a graph (307 nodes, 340 edges) and compare
 ### [Dengue Egg Counting with CNNs](https://github.com/darkJCdark/cnn-ordinal-classifier-egg-ovitrap) · team project
 Compared ResNet-50, InceptionV3 and EfficientNet-B3 as count regressors on 247 ovitrap images, mapped to four risk categories. Two-phase fine-tuning with Huber loss, 5 runs per architecture: ResNet-50 reached MAE 14.12 and 80.8% category accuracy, with no errors between non-adjacent categories.
 
-**AI:** Codex generated the base training script; I defined the two training phases and the evaluation metrics. ![Codex](https://img.shields.io/badge/Codex-412991?style=flat&logo=openai&logoColor=white)
+**AI:** Codex generated the base training script; I defined the two training phases and the evaluation metrics.
 
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat&logo=openai&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![ResNet-50](https://img.shields.io/badge/ResNet--50-555555?style=flat)
@@ -49,8 +50,9 @@ Compared ResNet-50, InceptionV3 and EfficientNet-B3 as count regressors on 247 o
 ### [Fraud Detection in Banking Transactions](https://github.com/darkJCdark/fraud-detection-bank-transactions-ml) · team project
 Random Forest vs. Logistic Regression on 14,446 transactions, tuned with GridSearchCV to maximize recall: **95.3% recall** (precision 0.977) against 44.5% for the linear baseline.
 
-**AI:** Claude Code reviewed my pipeline and flagged that I scaled the data before splitting train/test; I fixed the leak and retrained. ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claude&logoColor=white)
+**AI:** Claude Code reviewed my pipeline and flagged that I scaled the data before splitting train/test; I fixed the leak and retrained.
 
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claude&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -59,8 +61,10 @@ Random Forest vs. Logistic Regression on 14,446 transactions, tuned with GridSea
 ### [CoreMen — E-commerce Platform](https://github.com/ta-ingenieria-software/core-men) · UX/UI + architecture + full stack
 Designed the product end to end in Figma (design system and user flows), defined the software architecture and built it as a monorepo: role-based JWT auth in HttpOnly cookies (admin / merchant / client), an immutable audit log and Stripe payments.
 
-**AI:** Claude Code generated the first version of the modules and Codex the tests; I rewrote authentication and the discount logic. ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claude&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-412991?style=flat&logo=openai&logoColor=white)
+**AI:** Claude Code generated the first version of the modules and Codex the tests; I rewrote authentication and the discount logic.
 
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claude&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat&logo=openai&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
@@ -76,8 +80,9 @@ Designed the product end to end in Figma (design system and user flows), defined
 ### [SIRGEP — Public Space & Ticket Reservations](https://github.com/darkJCdark/sirgep-web) · full stack
 Layered Java 21 SOAP backend and ASP.NET (C#) frontend on MySQL (AWS), with PDF receipts and reports (iTextSharp), Excel exports (Apache POI), a sales dashboard, email notifications (Jakarta Mail) and AES-protected credentials. 625 commits.
 
-**AI:** Codex drafted the initial SOAP service skeletons; I adjusted the contracts and queries to my own tables. ![Codex](https://img.shields.io/badge/Codex-412991?style=flat&logo=openai&logoColor=white)
+**AI:** Codex drafted the initial SOAP service skeletons; I adjusted the contracts and queries to my own tables.
 
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat&logo=openai&logoColor=white)
 ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![SOAP](https://img.shields.io/badge/SOAP-555555?style=flat)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
